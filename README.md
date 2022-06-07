@@ -22,3 +22,5 @@ Controls:
   - Start to pause
   - D-pad or Left Joystick to navigate menus
   - A to select buttons in menus
+
+Created with a team of three artists and two programmers; credits are on the [Itch Page](https://green-production.itch.io/althea).
