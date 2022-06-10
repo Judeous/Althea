@@ -5,6 +5,13 @@ Althea, a forest sprite, adventures through new areas with the help of the fores
 
 Watch the forest come alive as you carry on your journey!
 
+### How to Install:
+ - Go to  the [Itch Page](https://green-production.itch.io/althea)
+ - Click on Download
+ - Open the containing folder
+ - Extract the contents either with Extract All or 7-zip if you have it
+ - Open the unzipped folder and run Althea.exe
+
 ### How to Play:
 Controls:
 - Keyboard:
