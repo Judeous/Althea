@@ -34,13 +34,13 @@ Controls:
 Created with a team of three artists and two programmers
 - Art:
   - [Lorenzo Sawyer Jr](https://www.artstation.com/l_sawyer18): UI, Glide Animation
-  - [jdgameart](https://jdgameart.itch.io/): Flowers, Thorn Barriers, Lighting, Grass Foliage
-  - [Ray Peña](https://www.artstation.com/cyanyaide): Statue, Player Character, Font, Skybox, Polygonal Grass Foliage, Ground Textures, Particle Effects
+  - [jdgameart](https://jdgameart.itch.io/): Flowers, Flower Alembic Caches, Thorn Barriers, Lighting, Grass Foliage
+  - [Ray Peña](https://www.artstation.com/cyanyaide): Statue, Player Character, Font, Skybox, Polygonal Grass Foliage, Ground Textures, Gem Pickups, Particle Effects, Post Processing, Win Screen
 
 - Programming: 
-  - [brittb123](https://github.com/brittb123): UI, Animation Implementation: 
-  - [Judeous](https://github.com/Judeous): Player Movement, Statue, Pickups Counter, Environmental Blooming, Particle Effect Implementation, Thorn Barrier: 
+  - [brittb123](https://github.com/brittb123): UI, Animation Implementation
+  - [Judeous](https://github.com/Judeous): Player Movement, Statue, Pickups, Pickup Counter, Environmental Blooming, Particle Effect Implementation, Thorn Barrier, Win Screen
 
 - Design:
-  - [Judeous](https://github.com/Judeous): Level Design
   - [jdgameart](https://jdgameart.itch.io/), [Ray Peña](https://www.artstation.com/cyanyaide), [Judeous](https://github.com/Judeous): Conceptualization
+  - [Judeous](https://github.com/Judeous): Level Design
